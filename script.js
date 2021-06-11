@@ -18,7 +18,7 @@ function ProjectContainer() {
               <h3 class="text-geay-400 text-base font-medium title-font">Developer:<span class="text-black ml-2">${projectAuthor}</span> </h3>
               <hr class="h-0.5 rounded bg-gray-600"></hr>
               <p class="leading-relaxed text-base mt-2 mb-2">${projectAbout}</p>
-              <a herf="${projectLink}" class="inline-flex items-center bg-black border-0 py-2 px-3 focus:outline-none hover:bg-gray-900 rounded text-base text-white mt-6 md:mt-0">View Project
+              <a herf=${projectLink} class="inline-flex items-center bg-black border-0 py-2 px-3 focus:outline-none hover:bg-gray-900 rounded text-base text-white mt-6 md:mt-0">View Project
               </a>
               <a href=${projectSource} class="inline-flex items-center bg-yellow-300 border-0 py-2 px-3 focus:outline-none hover:bg-yellow-200 rounded text-base text-black mt-6 md:mt-0">Source Code
             </a>
