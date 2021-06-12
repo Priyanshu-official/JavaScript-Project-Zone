@@ -1,0 +1,16 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.containerNav {
+      @apply mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center px-24 
+    }
+
+.brand{
+    @apply flex  items-center text-white mb-4 md:mb-0 
+}
+
+.btn-github{
+   @apply inline-flex items-center bg-black border-0 py-2 px-6 focus:outline-none hover:bg-gray-600 rounded text-base mt-4 md:mt-0 text-white
+}
