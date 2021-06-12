@@ -1,5 +1,5 @@
-# JavaScript-Project
-Basic JavaScript Project 
+# JavaScript-Project-Zone
+
 
 ## 3. Mind Game
   <img src="Demo/Mind_Game.gif" />
