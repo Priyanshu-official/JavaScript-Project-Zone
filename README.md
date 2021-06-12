@@ -74,4 +74,4 @@ This is an example of how to list things you need to use the software and how to
 
 Priyanshu - [@Priyanshu](https://www.linkedin.com/in/priyanshuofficial/) 
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/Priyanshu-official/JavaScript-Project-Zone](https://github.com/Priyanshu-official/JavaScript-Project-Zone)
