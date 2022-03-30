@@ -1,5 +1,6 @@
 import React from 'react'
 import Project from './Project'
+import ProjectCard from './ProjectCard'
 
  function ShowProject() {
     return (
@@ -12,6 +13,7 @@ import Project from './Project'
             </div>
             </div>
         </div>
+        <ProjectCard/>
         <Project />
         </div>
     )
